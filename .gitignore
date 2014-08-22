@@ -1,0 +1,6 @@
+*.orig
+*.userprefs
+ReflectionTest/bin/*
+ReflectionTest/obj/*
+*.suo
+*.csproj.user
